@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="306397" started-at="2017-03-10T17:54:44Z" finished-at="2017-03-10T17:59:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="306397" started-at="2017-03-10T17:54:44Z" finished-at="2017-03-10T17:59:50Z">
+      <class name="IExplorer.Claim_Vida_IE">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3]" name="setUp" is-config="true" duration-ms="9611" started-at="2017-03-10T14:54:44Z" finished-at="2017-03-10T14:54:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="T01_AgregarDatosConctacto()[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3]" name="T01_AgregarDatosConctacto" duration-ms="55120" started-at="2017-03-10T14:54:53Z" finished-at="2017-03-10T14:55:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T01_AgregarDatosConctacto -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3]" name="tearDown" is-config="true" duration-ms="1416" started-at="2017-03-10T14:55:48Z" finished-at="2017-03-10T14:55:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=T01_AgregarDatosConctacto status=SUCCESS method=Claim_Vida_IE.T01_AgregarDatosConctacto()[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="T02_AgregarOtroDatoConctacto()[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3]" name="T02_AgregarOtroDatoConctacto" duration-ms="52517" started-at="2017-03-10T14:55:50Z" finished-at="2017-03-10T14:56:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T02_AgregarOtroDatoConctacto -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3]" name="tearDown" is-config="true" duration-ms="1348" started-at="2017-03-10T14:56:42Z" finished-at="2017-03-10T14:56:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=T02_AgregarOtroDatoConctacto status=SUCCESS method=Claim_Vida_IE.T02_AgregarOtroDatoConctacto()[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="T03_EditarDatosContacto()[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3]" name="T03_EditarDatosContacto" duration-ms="53151" started-at="2017-03-10T14:56:44Z" finished-at="2017-03-10T14:57:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T03_EditarDatosContacto -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3]" name="tearDown" is-config="true" duration-ms="1225" started-at="2017-03-10T14:57:37Z" finished-at="2017-03-10T14:57:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=T03_EditarDatosContacto status=SUCCESS method=Claim_Vida_IE.T03_EditarDatosContacto()[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="T04_EliminarDatosContacto()[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3]" name="T04_EliminarDatosContacto" duration-ms="49629" started-at="2017-03-10T14:57:38Z" finished-at="2017-03-10T14:58:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T04_EliminarDatosContacto -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3]" name="tearDown" is-config="true" duration-ms="1203" started-at="2017-03-10T14:58:28Z" finished-at="2017-03-10T14:58:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=T04_EliminarDatosContacto status=SUCCESS method=Claim_Vida_IE.T04_EliminarDatosContacto()[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="T05_ZAvanzarAdmitirExpediente()[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3]" name="T05_ZAvanzarAdmitirExpediente" duration-ms="15585" started-at="2017-03-10T14:58:29Z" finished-at="2017-03-10T14:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T05_ZAvanzarAdmitirExpediente -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3]" name="tearDown" is-config="true" duration-ms="102" started-at="2017-03-10T14:58:45Z" finished-at="2017-03-10T14:58:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=T05_ZAvanzarAdmitirExpediente status=SUCCESS method=Claim_Vida_IE.T05_ZAvanzarAdmitirExpediente()[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="T06_DatosCobertura()[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3]" name="T06_DatosCobertura" duration-ms="13574" started-at="2017-03-10T14:58:45Z" finished-at="2017-03-10T14:58:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T06_DatosCobertura -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3]" name="tearDown" is-config="true" duration-ms="389" started-at="2017-03-10T14:58:58Z" finished-at="2017-03-10T14:58:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=T06_DatosCobertura status=SUCCESS method=Claim_Vida_IE.T06_DatosCobertura()[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="T07_DatosSiniestro()[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3]" name="T07_DatosSiniestro" duration-ms="9863" started-at="2017-03-10T14:58:59Z" finished-at="2017-03-10T14:59:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T07_DatosSiniestro -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3]" name="tearDown" is-config="true" duration-ms="229" started-at="2017-03-10T14:59:08Z" finished-at="2017-03-10T14:59:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=T07_DatosSiniestro status=SUCCESS method=Claim_Vida_IE.T07_DatosSiniestro()[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="T08_DatosBeneficiarios()[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3]" name="T08_DatosBeneficiarios" duration-ms="39220" started-at="2017-03-10T14:59:09Z" finished-at="2017-03-10T14:59:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T08_DatosBeneficiarios -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3]" name="tearDown" is-config="true" duration-ms="285" started-at="2017-03-10T14:59:48Z" finished-at="2017-03-10T14:59:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=T08_DatosBeneficiarios status=SUCCESS method=Claim_Vida_IE.T08_DatosBeneficiarios()[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:IExplorer.Claim_Vida_IE@2ac273d3]" name="tearDown" is-config="true" duration-ms="1874" started-at="2017-03-10T14:59:48Z" finished-at="2017-03-10T14:59:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- IExplorer.Claim_Vida_IE -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
